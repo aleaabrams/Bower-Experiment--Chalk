@@ -1,0 +1,17 @@
+{
+  "name": "chalk",
+  "version": "1",
+  "authors": [
+    "Alea Abrams"
+  ],
+  "description": "Make your website look like a chalkboard!",
+  "main": "chalk.scss",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

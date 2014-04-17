@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Patrick+Hand+SC);
+
+$background: url(http://lilalaughing.files.wordpress.com/2014/02/chalkboard.jpg);
+$font: 'Patrick Hand SC', cursive;
+$color: yellow;
+
+body{
+   background-image: $background;
+   font-family: $font;
+   color: $color;
+}
